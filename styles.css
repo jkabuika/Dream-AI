@@ -20,5 +20,8 @@ h3, h2, .enter-dream-container, .enter-btn {
 .enter-dream-container textarea {
   font-size: 16px;
   width: 500px;
-  height: 300px;
+  height: 200px;
+  padding: 20px;
+  margin-top: 1rem;
+  border-radius: 30px;
 }
