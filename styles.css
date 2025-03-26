@@ -8,5 +8,11 @@ h3, h2, .enter-dream-container, .enter-btn {
   justify-content: center;
 }
 
-.enter-btn
-
+.enter-btn button {
+  padding: 10px 20px;
+  margin-top: 2rem;
+  border: #fff;
+  border-radius: 20px;
+  background-color: blueviolet;
+  color: #fff;
+}
